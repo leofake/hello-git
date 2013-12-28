@@ -1,1 +1,4 @@
-(format t "Hello, Github!")
+(defun hello-world (hello)
+  (format "Hello, Github!"))
+
+(hello-world)
